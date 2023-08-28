@@ -509,3 +509,4 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+Front/ProEventos-App/.angular/cache
